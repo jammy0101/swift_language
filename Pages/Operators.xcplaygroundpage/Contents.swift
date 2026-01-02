@@ -83,6 +83,7 @@ if likeCount > 3 || commentCount2 > 0 {
 }else{
     print("Post has greater then 3 likes AND greater then 0 comments")
 }
+<<<<<<< HEAD
 
 
 var userIsPremium: Bool = true
@@ -110,3 +111,5 @@ if likeCount > 5 {
 }else{
     print("Else statment")
 }
+=======
+>>>>>>> dfc08a44e24f300c6327de3f5bb052b4b6fba206
