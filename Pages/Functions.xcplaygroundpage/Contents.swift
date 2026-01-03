@@ -75,3 +75,19 @@ func sumNumbers(_ numbers: Int...) -> Int {
 }
 
 print(sumNumbers(1, 2, 3, 4, 5)) // Output: 15
+
+
+// variadic parameters
+func nameLenth(_ names: String...) -> String{
+    var lenth = "RASHID KHAN"
+    
+    for name in names {
+        
+    }
+    return lenth
+}
+
+
+print(nameLenth(""))
+
+
