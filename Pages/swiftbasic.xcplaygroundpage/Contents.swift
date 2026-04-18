@@ -9,3 +9,8 @@ var greeting2 = "OK DO"
 let firstGreetin = "HELLO WORLD"
 
 print(greeting)
+
+
+
+var greeting3 = "RASHID KHAN"
+

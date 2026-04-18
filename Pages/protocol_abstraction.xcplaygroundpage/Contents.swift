@@ -24,6 +24,6 @@ class Paypal: Payment{
     }
 }
 
-let payment: Payment = CreditCard()
+let payment: Payment = Paypal()
 
 payment.pay(amount: 500)
